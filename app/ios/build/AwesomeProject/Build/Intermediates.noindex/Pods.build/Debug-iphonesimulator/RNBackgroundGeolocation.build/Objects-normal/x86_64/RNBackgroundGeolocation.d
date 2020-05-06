@@ -1,0 +1,44 @@
+dependencies: \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/RNBackgroundGeolocation.m \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Target\ Support\ Files/RNBackgroundGeolocation/RNBackgroundGeolocation-prefix.pch \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/RNBackgroundGeolocation.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Modules/module.modulemap \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/HttpResponse.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/HttpRequest.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/AtomicBoolean.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSHttpService.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSDeviceInfo.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/SQLQuery.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/LogQuery.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSCurrentPositionRequest.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSWatchPositionRequest.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/LocationManager.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSGeofence.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSGeofenceEvent.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSEnabledChangeEvent.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSConnectivityChangeEvent.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSPowerSaveChangeEvent.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSGeofencesChangeEvent.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSScheduleEvent.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSHeartbeatEvent.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSHttpEvent.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSProviderChangeEvent.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSActivityChangeEvent.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSLocation.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSAuthorizationEvent.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TransistorAuthorizationToken.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/ConfigModule.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSAuthorization.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSConfig.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSSchedule.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSLocationManager.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h

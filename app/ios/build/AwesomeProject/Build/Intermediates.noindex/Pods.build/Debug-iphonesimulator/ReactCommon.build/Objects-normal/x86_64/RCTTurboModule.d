@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Folly/folly/Optional.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Folly/folly/Portability.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Folly/folly/CPortability.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Folly/folly/Traits.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Folly/folly/Utility.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/jaysenmunsami/Documents/react-native-navigation-starter/ios/Pods/Folly/folly/CppAttributes.h

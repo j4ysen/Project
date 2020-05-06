@@ -1,0 +1,541 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/1c09c2e6b78fa92ee3e6cc2ef8e1f718/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-background-fetch] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:2:1-31:12
+MERGED from [:react-native-background-geolocation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:1:39-40:12
+MERGED from [:@react-native-community_async-storage] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_netinfo] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:amazon-cognito-identity-js] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/amazon-cognito-identity-js/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-navigation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-vector-icons] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/52e66b6fc16a2e404778abd5bbdc783a/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4d95285fc02f76cfa49938eef9d4be7d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.1.2] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c4334fbcfe438fb787f7fa8ae75f536b/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/74ff49d8024216a2a207eb0c1cce0cd1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d1a868ffb28c9b59d62ee98447fee08a/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/0e54e681ee9a9d7ced62b641e1647602/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/6b96486a50b19cb8db377947bd7af09d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d6c7db64e3097265cb2b95ff946deb48/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.tony19:logback-android:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c3063bf7810596c2ddff14275e40354a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intentfilter:android-permissions:0.1.8] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4a7afc026e4be8e828cacf5e6134c6f3/AndroidManifest.xml:2:1-18:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/6fc1f859594a42c9136809b95e326c2b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/ed347429d8f98076e87a74c19d6a6590/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/86e0fc3afa160e10750de226bdc748c2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c74d8492208d7fd575411e2a2923b034/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/fd7ac28e4f513d7904511405b7ffaf19/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/47016bc1b4d674e20ec7ed62735022a6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/f4c8cebdf3cca26a7b05efe12d132c73/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/fc4daf3ec1ee7b8ddbe5feca44672a67/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/f412631333a29488adc58b3ac2d3a752/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/21275adde002123777ea2ef7f3e02ee9/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7bc8c77ffa0f5366753a5e02c9c9d5b2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/3e7e56d42842fa97600483277254fefd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/a7cbc7ee5ce67cf5b3e87dfc87e0336d/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9d8f396f790570265f226f27d045ab90/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9b4e1b3eeb61e6863221edab3b56794d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/e08190ce2b38f40635b175cd4eabec14/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/1334273c905c0528cd66fbed95901659/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/b65bb50aee1e24e1fc2f11ef37cdc773/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/feba5e80d2340816bbac63678976a6d5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7fe73d0957e9296a0e21539bf9116af9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/b322e9f98ec1a8af4199f93789f23eb7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/fba1e0fae056e1671f1d319b1afb9b34/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d0301167f570e180053625ca87a5379c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4d47d34c16c5b03f733c5b64521e48e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/b263ce6adabe38dbfa04cdd4e2238640/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c10c41738d310760f8329477b9de8509/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/32e27b87a1b45fa70089b667985ac302/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d21c267dfc1f8bf0be73e4656ed48c49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/8f4eeb90e17ceb3ecc2a95d148520184/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/010b4f779c1478c81bf7d7521e9ea453/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d644294e8edfbd2248b919b050827734/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7dcf776d7b450ff6312961938c1cc10d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0-beta01] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/cb467e26e7dc850ca5792ff3c2d905e8/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/1e590c46174a4e7bd7106668b98f87d8/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7f31b885f9c5dc357336378a62bf4640/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/791f04239e8a421edc13318984976ebc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/652771d115707a4c5fb9e01e4581862e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/32a15af5296c8723966d5fa3ed03c9c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/0edb5fd501b2b2583c56dd1496bb8afc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/978d743753d0f1f92cd308480c1550a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c1aa934e934377602f96cad8a4a0f3da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/58fd2856310faded835ac054b4921fd0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/ea4af355376d6f427abe296b9a9bc06c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d7872b0226ae9350a29ae2734de6e16c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/ea0b5eb30dc4e87e3064a6aa864007b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/cd438ad56be3e4f5152e47ef5e22430a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.clans:fab:1.6.4] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/be58e9b89f0210ca05c541b0f84514c4/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/32a7e381d627ea4043c805bc2d0cc588/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/149f1e79374fbe680fe872775116e009/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:10:5-66
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-background-fetch] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-background-fetch] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:15:5-29:19
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:15:5-29:19
+MERGED from [:react-native-background-geolocation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-background-geolocation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:19:5-39:19
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:19:5-39:19
+MERGED from [:react-native-navigation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-navigation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/52e66b6fc16a2e404778abd5bbdc783a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/52e66b6fc16a2e404778abd5bbdc783a/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.1.2] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c4334fbcfe438fb787f7fa8ae75f536b/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.1.2] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c4334fbcfe438fb787f7fa8ae75f536b/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/74ff49d8024216a2a207eb0c1cce0cd1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/74ff49d8024216a2a207eb0c1cce0cd1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/6b96486a50b19cb8db377947bd7af09d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/6b96486a50b19cb8db377947bd7af09d/AndroidManifest.xml:7:5-20
+MERGED from [com.intentfilter:android-permissions:0.1.8] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4a7afc026e4be8e828cacf5e6134c6f3/AndroidManifest.xml:11:5-16:19
+MERGED from [com.intentfilter:android-permissions:0.1.8] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4a7afc026e4be8e828cacf5e6134c6f3/AndroidManifest.xml:11:5-16:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/f4c8cebdf3cca26a7b05efe12d132c73/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/f4c8cebdf3cca26a7b05efe12d132c73/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/21275adde002123777ea2ef7f3e02ee9/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/21275adde002123777ea2ef7f3e02ee9/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7bc8c77ffa0f5366753a5e02c9c9d5b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7bc8c77ffa0f5366753a5e02c9c9d5b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/3e7e56d42842fa97600483277254fefd/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/3e7e56d42842fa97600483277254fefd/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/a7cbc7ee5ce67cf5b3e87dfc87e0336d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/a7cbc7ee5ce67cf5b3e87dfc87e0336d/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0-beta01] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/cb467e26e7dc850ca5792ff3c2d905e8/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-beta01] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/cb467e26e7dc850ca5792ff3c2d905e8/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/1e590c46174a4e7bd7106668b98f87d8/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/1e590c46174a4e7bd7106668b98f87d8/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.clans:fab:1.6.4] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/be58e9b89f0210ca05c541b0f84514c4/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/be58e9b89f0210ca05c541b0f84514c4/AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-beta01] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/cb467e26e7dc850ca5792ff3c2d905e8/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.jaysen.awesomeproject.MainActivity
+ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:23:7-84
+MERGED from [:react-native-navigation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:12:9-14:40
+MERGED from [:react-native-navigation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from [:react-native-navigation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/1c09c2e6b78fa92ee3e6cc2ef8e1f718/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/1c09c2e6b78fa92ee3e6cc2ef8e1f718/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-background-fetch] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-fetch] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:7:5-9:41
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-geolocation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-geolocation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-background-geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:2:5-73
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:2:5-73
+MERGED from [:@react-native-community_async-storage] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:amazon-cognito-identity-js] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/amazon-cognito-identity-js/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:amazon-cognito-identity-js] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/amazon-cognito-identity-js/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/52e66b6fc16a2e404778abd5bbdc783a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/52e66b6fc16a2e404778abd5bbdc783a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4d95285fc02f76cfa49938eef9d4be7d/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4d95285fc02f76cfa49938eef9d4be7d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.1.2] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c4334fbcfe438fb787f7fa8ae75f536b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.1.2] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c4334fbcfe438fb787f7fa8ae75f536b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/74ff49d8024216a2a207eb0c1cce0cd1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/74ff49d8024216a2a207eb0c1cce0cd1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d1a868ffb28c9b59d62ee98447fee08a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d1a868ffb28c9b59d62ee98447fee08a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/0e54e681ee9a9d7ced62b641e1647602/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/0e54e681ee9a9d7ced62b641e1647602/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/6b96486a50b19cb8db377947bd7af09d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/6b96486a50b19cb8db377947bd7af09d/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d6c7db64e3097265cb2b95ff946deb48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d6c7db64e3097265cb2b95ff946deb48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.tony19:logback-android:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c3063bf7810596c2ddff14275e40354a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c3063bf7810596c2ddff14275e40354a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.8] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4a7afc026e4be8e828cacf5e6134c6f3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.8] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4a7afc026e4be8e828cacf5e6134c6f3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/6fc1f859594a42c9136809b95e326c2b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/6fc1f859594a42c9136809b95e326c2b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/ed347429d8f98076e87a74c19d6a6590/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/ed347429d8f98076e87a74c19d6a6590/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/86e0fc3afa160e10750de226bdc748c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/86e0fc3afa160e10750de226bdc748c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c74d8492208d7fd575411e2a2923b034/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c74d8492208d7fd575411e2a2923b034/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/fd7ac28e4f513d7904511405b7ffaf19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/fd7ac28e4f513d7904511405b7ffaf19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/47016bc1b4d674e20ec7ed62735022a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/47016bc1b4d674e20ec7ed62735022a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/f4c8cebdf3cca26a7b05efe12d132c73/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/f4c8cebdf3cca26a7b05efe12d132c73/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/fc4daf3ec1ee7b8ddbe5feca44672a67/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/fc4daf3ec1ee7b8ddbe5feca44672a67/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/f412631333a29488adc58b3ac2d3a752/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/f412631333a29488adc58b3ac2d3a752/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/21275adde002123777ea2ef7f3e02ee9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/21275adde002123777ea2ef7f3e02ee9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7bc8c77ffa0f5366753a5e02c9c9d5b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7bc8c77ffa0f5366753a5e02c9c9d5b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/3e7e56d42842fa97600483277254fefd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/3e7e56d42842fa97600483277254fefd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/a7cbc7ee5ce67cf5b3e87dfc87e0336d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/a7cbc7ee5ce67cf5b3e87dfc87e0336d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9d8f396f790570265f226f27d045ab90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9d8f396f790570265f226f27d045ab90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9b4e1b3eeb61e6863221edab3b56794d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9b4e1b3eeb61e6863221edab3b56794d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/e08190ce2b38f40635b175cd4eabec14/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/e08190ce2b38f40635b175cd4eabec14/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/1334273c905c0528cd66fbed95901659/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/1334273c905c0528cd66fbed95901659/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/b65bb50aee1e24e1fc2f11ef37cdc773/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/b65bb50aee1e24e1fc2f11ef37cdc773/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/feba5e80d2340816bbac63678976a6d5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/feba5e80d2340816bbac63678976a6d5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7fe73d0957e9296a0e21539bf9116af9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7fe73d0957e9296a0e21539bf9116af9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/b322e9f98ec1a8af4199f93789f23eb7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/b322e9f98ec1a8af4199f93789f23eb7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/fba1e0fae056e1671f1d319b1afb9b34/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/fba1e0fae056e1671f1d319b1afb9b34/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d0301167f570e180053625ca87a5379c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d0301167f570e180053625ca87a5379c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4d47d34c16c5b03f733c5b64521e48e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4d47d34c16c5b03f733c5b64521e48e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/b263ce6adabe38dbfa04cdd4e2238640/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/b263ce6adabe38dbfa04cdd4e2238640/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c10c41738d310760f8329477b9de8509/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c10c41738d310760f8329477b9de8509/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/32e27b87a1b45fa70089b667985ac302/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/32e27b87a1b45fa70089b667985ac302/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d21c267dfc1f8bf0be73e4656ed48c49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d21c267dfc1f8bf0be73e4656ed48c49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/8f4eeb90e17ceb3ecc2a95d148520184/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/8f4eeb90e17ceb3ecc2a95d148520184/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/010b4f779c1478c81bf7d7521e9ea453/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/010b4f779c1478c81bf7d7521e9ea453/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d644294e8edfbd2248b919b050827734/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d644294e8edfbd2248b919b050827734/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7dcf776d7b450ff6312961938c1cc10d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7dcf776d7b450ff6312961938c1cc10d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0-beta01] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/cb467e26e7dc850ca5792ff3c2d905e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-beta01] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/cb467e26e7dc850ca5792ff3c2d905e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/1e590c46174a4e7bd7106668b98f87d8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/1e590c46174a4e7bd7106668b98f87d8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7f31b885f9c5dc357336378a62bf4640/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/7f31b885f9c5dc357336378a62bf4640/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/791f04239e8a421edc13318984976ebc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/791f04239e8a421edc13318984976ebc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/652771d115707a4c5fb9e01e4581862e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/652771d115707a4c5fb9e01e4581862e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/32a15af5296c8723966d5fa3ed03c9c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/32a15af5296c8723966d5fa3ed03c9c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/0edb5fd501b2b2583c56dd1496bb8afc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/0edb5fd501b2b2583c56dd1496bb8afc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/978d743753d0f1f92cd308480c1550a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/978d743753d0f1f92cd308480c1550a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c1aa934e934377602f96cad8a4a0f3da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/c1aa934e934377602f96cad8a4a0f3da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/58fd2856310faded835ac054b4921fd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/58fd2856310faded835ac054b4921fd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/ea4af355376d6f427abe296b9a9bc06c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/ea4af355376d6f427abe296b9a9bc06c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d7872b0226ae9350a29ae2734de6e16c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/d7872b0226ae9350a29ae2734de6e16c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/ea0b5eb30dc4e87e3064a6aa864007b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/ea0b5eb30dc4e87e3064a6aa864007b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/cd438ad56be3e4f5152e47ef5e22430a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/cd438ad56be3e4f5152e47ef5e22430a/AndroidManifest.xml:20:5-44
+MERGED from [com.github.clans:fab:1.6.4] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/be58e9b89f0210ca05c541b0f84514c4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/be58e9b89f0210ca05c541b0f84514c4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/32a7e381d627ea4043c805bc2d0cc588/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/32a7e381d627ea4043c805bc2d0cc588/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/149f1e79374fbe680fe872775116e009/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/149f1e79374fbe680fe872775116e009/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/jaysenmunsami/Documents/react-native-navigation-starter/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:11:5-81
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:13:5-80
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:12:5-68
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:3:5-67
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:13:5-68
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:14:5-67
+MERGED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:13:22-65
+receiver#com.transistorsoft.tsbackgroundfetch.FetchAlarmReceiver
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:16:9-92
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:16:19-89
+service#com.transistorsoft.tsbackgroundfetch.FetchJobService
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:18:9-21:72
+	android:exported
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:20:13-36
+	android:permission
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:21:13-69
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:19:13-80
+receiver#com.transistorsoft.tsbackgroundfetch.BootReceiver
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:23:9-28:20
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:23:19-83
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:25:17-79
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:25:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:26:17-84
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/9025479924587d9c2a155139879f7ecb/AndroidManifest.xml:26:25-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:4:5-78
+MERGED from [:@react-native-community_netinfo] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:@react-native-community_netinfo] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:5:5-84
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:5:22-82
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACTIVITY_RECOGNITION
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:9:5-88
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:9:22-86
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:11:22-74
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:12:5-93
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:12:22-91
+uses-permission#oppo.permission.OPPO_COMPONENT_SAFE
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:16:22-72
+uses-permission#com.huawei.permission.external_app_settings.USE_COMPONENT
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:17:5-96
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:17:22-94
+uses-feature#android.hardware.location.gps
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:18:5-90
+	android:required
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:18:64-88
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:18:19-63
+activity#com.transistorsoft.locationmanager.activity.TSLocationManagerActivity
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:20:9-219
+	android:excludeFromRecents
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:20:104-137
+	android:launchMode
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:20:138-173
+	android:theme
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:20:174-217
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:20:19-103
+service#com.transistorsoft.locationmanager.service.TrackingService
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:21:9-93
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:21:18-91
+service#com.transistorsoft.locationmanager.service.LocationRequestService
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:22:9-100
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:22:18-98
+service#com.transistorsoft.locationmanager.service.HeartbeatService
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:23:9-94
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:23:18-92
+service#com.transistorsoft.locationmanager.service.ActivityRecognitionService
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:24:9-104
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:24:18-102
+service#com.transistorsoft.locationmanager.service.GeofencingService
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:25:9-95
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:25:18-93
+service#com.transistorsoft.locationmanager.service.BackgroundTaskService
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:26:9-99
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:26:18-97
+receiver#com.transistorsoft.locationmanager.scheduler.ScheduleAlarmReceiver
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:27:9-102
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:27:19-100
+service#com.transistorsoft.locationmanager.scheduler.ScheduleService
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:28:9-95
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:28:18-93
+service#com.transistorsoft.locationmanager.scheduler.ScheduleJobService
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:29:9-179
+	android:exported
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:29:97-120
+	android:permission
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:29:121-177
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:29:18-96
+receiver#com.transistorsoft.locationmanager.BootReceiver
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:30:9-35:20
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:30:19-81
+provider#com.transistorsoft.locationmanager.util.LogFileProvider
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:36:9-38:20
+	android:grantUriPermissions
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:36:185-219
+	android:authorities
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:36:90-159
+	android:exported
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:36:160-184
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:36:19-89
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:37:13-137
+	android:resource
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:37:75-135
+	android:name
+		ADDED from [tslocationmanager-3.0.44.aar] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/bc8900800bf3eb5b02bb7c2d8b499cb2/AndroidManifest.xml:37:24-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:@react-native-community_netinfo] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:@react-native-community_netinfo] /Users/jaysenmunsami/Documents/react-native-navigation-starter/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-73
+activity#com.intentfilter.androidpermissions.PermissionsActivity
+ADDED from [com.intentfilter:android-permissions:0.1.8] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4a7afc026e4be8e828cacf5e6134c6f3/AndroidManifest.xml:12:9-15:59
+	android:excludeFromRecents
+		ADDED from [com.intentfilter:android-permissions:0.1.8] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4a7afc026e4be8e828cacf5e6134c6f3/AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from [com.intentfilter:android-permissions:0.1.8] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4a7afc026e4be8e828cacf5e6134c6f3/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from [com.intentfilter:android-permissions:0.1.8] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/4a7afc026e4be8e828cacf5e6134c6f3/AndroidManifest.xml:13:13-83
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/21275adde002123777ea2ef7f3e02ee9/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/21275adde002123777ea2ef7f3e02ee9/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/21275adde002123777ea2ef7f3e02ee9/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/21275adde002123777ea2ef7f3e02ee9/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/a7cbc7ee5ce67cf5b3e87dfc87e0336d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/a7cbc7ee5ce67cf5b3e87dfc87e0336d/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/jaysenmunsami/.gradle/caches/transforms-2/files-2.1/a7cbc7ee5ce67cf5b3e87dfc87e0336d/AndroidManifest.xml:24:13-58
